@@ -1,5 +1,5 @@
 This is where your schema solutions should go.  If the SQL designer is working, save a screenshot of your schema in the img folder and use the following syntax for linking it in this file.  
-	![Image Title](img/my_awesome_schema.png)
+<pre>![Image Title](img/my_awesome_schema.png)</pre>
 If the schema designer is not working or is causing you too much confusion (it can take some getting used to), try the empty tables below.
 
 
@@ -20,11 +20,11 @@ Create your own one-to-one database relationship.  You don't have to use the sam
 </pre>
 
 **table_1**
-| id | field1              | field2              | field3              | field4              |
-|----|---------------------|---------------------|---------------------|---------------------|
-| 1  | (insert entry here) | (insert entry here) | (insert entry here) | (insert entry here) |
-| 2  | (insert entry here) | (insert entry here) | (insert entry here) | (insert entry here) |
-| 3  | (insert entry here) | (insert entry here) | (insert entry here) | (insert entry here) |
+| id | field1 | field2 | field3 | field4               |
+|----|--------|--------|--------|----------------------|
+| 1  | entry  | entry  | entry  | entry                |
+| 2  | entry  | entry  | entry  | entry                |
+| 3  | entry  | entry  | entry  | entry 			   |
 
 **table_2**
 | id | field1              | field2              | field3              |
