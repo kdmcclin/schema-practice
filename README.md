@@ -6,7 +6,11 @@ The schema-explanations directory contains examples of four different schema des
 Read this entire README first, but the my_solution.md file contains instructions for completing each step of the exercise.
 
 ## Schema Designer
-Check out [this](http://ondras.zarovi.cz/sql/demo/) schema designer.  If it's being a bit buggy for you like it is right now for me, take advantage of the empty ascii schemas in the my solution file.
+Check out [this](http://ondras.zarovi.cz/sql/demo/) schema designer.  If it's being a bit buggy for you like it is right now for me, take advantage of the empty ascii schemas in the my solution file.  
+
+Here's a screenshare showing how to use it.  For the sake of our purposes don't worry about the specific datatypes.  Just use any integer (yellow) for integers and any text (red) for strings.
+
+[![SQL Designer](http://img.youtube.com/vi/6ZawaYDkqNs/0.jpg)](http://youtu.be/6ZawaYDkqNs)
 
 ##Repository Instructions
 1.  Clone this repo down to your local machine.
