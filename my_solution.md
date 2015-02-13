@@ -20,18 +20,18 @@ Create your own one-to-one database relationship.  You don't have to use the sam
 </pre>
 
 **table_1**
-| id | field1 | field2 | field3 | field4 |
-|----|--------|--------|--------|--------|
-| 1 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
-| 2 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
-| 3 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
+| id | field1              | field2              | field3              | field4              |
+|----|---------------------|---------------------|---------------------|---------------------|
+| 1  | (insert entry here) | (insert entry here) | (insert entry here) | (insert entry here) |
+| 2  | (insert entry here) | (insert entry here) | (insert entry here) | (insert entry here) |
+| 3  | (insert entry here) | (insert entry here) | (insert entry here) | (insert entry here) |
 
 **table_2**
-| id | field1 | field2 | field3 |
-|----|--------|--------|--------|
-| 1 | (insert entry here)| (insert entry here)| (insert entry here)|
-| 2 | (insert entry here)| (insert entry here)| (insert entry here)|
-| 3 | (insert entry here)| (insert entry here)| (insert entry here)|
+| id | field1              | field2              | field3              |
+|----|---------------------|---------------------|---------------------|
+| 1  | (insert entry here) | (insert entry here) | (insert entry here) |
+| 2  | (insert entry here) | (insert entry here) | (insert entry here) |
+| 3  | (insert entry here) | (insert entry here) | (insert entry here) |
 
 ##One to Many
 Read the one-to-many section of the explanations if necessary.  
