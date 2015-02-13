@@ -6,20 +6,20 @@ The schema-explanations directory contains examples of four different schema des
 1.  Clone this repo down to your local machine.
 
 2.  Create a new branch with your name.
-![Branch me](branchinstructions.png)
+![Branch me](img/branchinstructions.png)
 
 3.  Work on as much of it as you want to work on.
 
 4.  Push your solutions up to your branch.
-![Don't Push to Master](dontpushtomaster.png)  
+![Don't Push to Master](img/dontpushtomaster.png)  
 Don't push to master.  DON'T PUSH TO MASTER.  **Don't push to master.**
 Is it reversible?  Pretend it's not.  On a larger project you're working on it would be a pain to undo so get good git habits now.
 
 5.  Click the pull request button to start the pull request process.  Click through until you get to a branch select screen.  
-![Pull Request](pr.png)
+![Pull Request](img/pr.png)
 
 6.  Choose your branch from the dropdown menu.
-![Test Branch](testbranch.png)
+![Test Branch](img/testbranch.png)
 
 7.  Fill out your pull request and @me if there's anything in particular you want me to look at.  Ignore the other stuff and click "create pull request"
-![Pull Request Example](prfilled.png)
+![Pull Request Example](img/prfilled.png)
