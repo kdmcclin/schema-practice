@@ -1,5 +1,3 @@
-Note: this is borrowed from [Dev Bootcamp's guide](https://github.com/Devbootcamp/phase-0-unit-3) with a few tweaks.
-
 # Student Roster Database Introduction
 
 Take a look at the text representation of a database.  It looks similar to an Excel spreadsheet, which is a helpful way of visualizing how databases store information.
