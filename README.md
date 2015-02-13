@@ -8,7 +8,7 @@ Read this entire README first, but the my_solution.md file contains instructions
 ## Schema Designer
 Check out [this](http://ondras.zarovi.cz/sql/demo/) schema designer.  If it's being a bit buggy for you like it is right now for me, take advantage of the empty ascii schemas in the my solution file.  
 
-Here's a screenshare showing how to use it.  For the sake of our purposes don't worry about the specific datatypes.  Just use any integer (yellow) for integers and any text (red) for strings.
+Here's a screenshare showing how to use it.  Click the image and it will take you to the youtube video.  For the sake of our purposes don't worry about the specific datatypes.  Just use any integer (yellow) for integers and any text (red) for strings.
 
 [![SQL Designer](http://img.youtube.com/vi/6ZawaYDkqNs/0.jpg)](http://youtu.be/6ZawaYDkqNs)
 
