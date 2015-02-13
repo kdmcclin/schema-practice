@@ -15,7 +15,7 @@ The schema-explanations directory contains examples of four different schema des
 Don't push to master.  DON'T PUSH TO MASTER.  **Don't push to master.**
 Is it reversible?  Pretend it's not.  On a larger project you're working on it would be a pain to undo so get good git habits now.
 
-5.  Click the pull request button to make a pull request.  Click through until you get to a branch select screen.
+5.  Click the pull request button to start the pull request process.  Click through until you get to a branch select screen.  
 ![Pull Request](pr.png)
 
 6.  Choose your branch from the dropdown menu.
