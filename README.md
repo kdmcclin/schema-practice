@@ -7,7 +7,7 @@ The schema-explanations directory contains examples of four different schema des
 ![Fork me](forkimage.png)
 
 2.  Clone the repo to your local machine.
-	git@github.com:your_name/schema-practice.git
-	https://github.com/your_name/schema-practice.git
+		git@github.com:your_name/schema-practice.git
+		https://github.com/your_name/schema-practice.git
 
 3.
