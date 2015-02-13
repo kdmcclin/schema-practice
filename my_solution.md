@@ -20,18 +20,18 @@ Create your own one-to-one database relationship.  You don't have to use the sam
 </pre>
 
 **table_1**
-| id | field1 | field2 | field3 | field4
-|----|--------|--------|--------|-------
-| 1 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)
-| 2 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)
-| 3 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)
+| id | field1 | field2 | field3 | field4 |
+|----|--------|--------|--------|--------|
+| 1 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
+| 2 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
+| 3 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
 
 **table_2**
-| id | field1 | field2 | field3 
+| id | field1 | field2 | field3 |
 |----|--------|--------|--------|
-| 1 | (insert entry here)| (insert entry here)| (insert entry here)
-| 2 | (insert entry here)| (insert entry here)| (insert entry here)
-| 3 | (insert entry here)| (insert entry here)| (insert entry here)
+| 1 | (insert entry here)| (insert entry here)| (insert entry here)|
+| 2 | (insert entry here)| (insert entry here)| (insert entry here)|
+| 3 | (insert entry here)| (insert entry here)| (insert entry here)|
 
 ##One to Many
 Read the one-to-many section of the explanations if necessary.  
@@ -50,18 +50,18 @@ Create your own one-to-many database relationship.  You don't have to use the sa
 </pre>
 
 **table_1**
-| id | field1 | field2 | field3 | field4
-|----|--------|--------|--------|-------
-| 1 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)
-| 2 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)
-| 3 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)
+| id | field1 | field2 | field3 | field4 |
+|----|--------|--------|--------|--------|
+| 1 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
+| 2 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
+| 3 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
 
 **table_2**
-| id | field1 | field2 | field3 
+| id | field1 | field2 | field3 | 
 |----|--------|--------|--------|
-| 1 | (insert entry here)| (insert entry here)| (insert entry here)
-| 2 | (insert entry here)| (insert entry here)| (insert entry here)
-| 3 | (insert entry here)| (insert entry here)| (insert entry here)
+| 1 | (insert entry here)| (insert entry here)| (insert entry here)|
+| 2 | (insert entry here)| (insert entry here)| (insert entry here)|
+| 3 | (insert entry here)| (insert entry here)| (insert entry here)|
 
 ##Many to Many
 Read the many-to-many section of the explanations if necessary.  
@@ -80,22 +80,22 @@ Create your own many-to-many database relationship.  You don't have to use the s
 </pre>
 
 **table1**
-| id | field1 | field2 | field3 | field4
-|----|--------|--------|--------|-------
-| 1 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)
-| 2 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)
-| 3 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)
+| id | field1 | field2 | field3 | field4 |
+|----|--------|--------|--------|--------|
+| 1 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
+| 2 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
+| 3 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
 
 **table2**
-| id | field1 | field2 | field3 
+| id | field1 | field2 | field3 |
 |----|--------|--------|--------|
-| 1 | (insert entry here)| (insert entry here)| (insert entry here)
-| 2 | (insert entry here)| (insert entry here)| (insert entry here)
-| 3 | (insert entry here)| (insert entry here)| (insert entry here)
+| 1 | (insert entry here)| (insert entry here)| (insert entry here)|
+| 2 | (insert entry here)| (insert entry here)| (insert entry here)|
+| 3 | (insert entry here)| (insert entry here)| (insert entry here)|
 
-**table1_table2
-| id | field1 | field2 
-|----|--------|--------
-| 1 | (insert entry here)| (insert entry here)
-| 2 | (insert entry here)| (insert entry here)
-| 3 | (insert entry here)| (insert entry here)
+**table1_table2**
+| id | field1 | field2 |
+|----|--------|--------|
+| 1 | (insert entry here)| (insert entry here)|
+| 2 | (insert entry here)| (insert entry here)|
+| 3 | (insert entry here)| (insert entry here)|

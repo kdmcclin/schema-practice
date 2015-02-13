@@ -2,8 +2,11 @@ This is meant as a supplementary set of schema design exercises (like what James
 
 The schema-explanations directory contains examples of four different schema designs.  A lone table, a one-to-one, a one-to-many, and a many-to-many.  You don't have to clone this repo if you just want to look at the schema-explorations directory, but feel free.  You will need to clone it if you want to do any of the exercises and have me look at them.  If the pull request instructions are needlessly confusing just follow steps 1-4 and shoot me a message on slack or something.
 
+## Completing the exercises
+Read this entire README first, but the my_solution.md file contains instructions for completing each step of the exercise.
+
 ## Schema Designer
-Check out [this](http://ondras.zarovi.cz/sql/demo/) schema designer.  If it's being a bit buggy for you like it is right now for me, take advantage of the empty ascii schemas in each section.
+Check out [this](http://ondras.zarovi.cz/sql/demo/) schema designer.  If it's being a bit buggy for you like it is right now for me, take advantage of the empty ascii schemas in the my solution file.
 
 ##Repository Instructions
 1.  Clone this repo down to your local machine.
