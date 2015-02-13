@@ -1,4 +1,4 @@
-Note: this is borrowed from [Dev Bootcamp's instructions](https://github.com/Devbootcamp/phase-0-unit-3) with a few tweaks.
+Note: this is borrowed from [Dev Bootcamp's guide](https://github.com/Devbootcamp/phase-0-unit-3) with a few tweaks.
 
 # Student Roster Database Introduction
 
@@ -10,7 +10,7 @@ Take a look at the text representation of a database.  It looks similar to an Ex
 | 1 | Jon| Snow| male| 1998-12-24| jsnow@nightswatch.co.uk| 0844 493 0787|
 | 2 | Katherine| McClintic| female| 1998-05-08| lolnope@example.com| (697)436-2633|
 | 3 | James| Dabbs| male| 2050-10-30| tiyninja@treutel.name| 1-351-672-6358x02502|
-| 4 | Autumn| Richter| female| 1111-06-27| fee@sanfordkuhlman.org| (600)142-5639x9380|
+| 4 | Autumn| Richter| female| 1111-06-27| fee@code-dojo.org| (600)142-5639x9380|
 
 Each column (or in DB speak **field**) has a name.  We can describe the structure of this table independently of what data is in it.  We'd write the structure like this:
 
