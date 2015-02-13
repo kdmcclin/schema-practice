@@ -19,21 +19,16 @@ Create your own one-to-one database relationship.  You don't have to use the sam
 +---------------------+
 </pre>
 
-**table_1**
-| id | first_name | last_name | gender | birthday | email | phone |
-|----|------------|-----------|--------|----------|-------|-------|
-| 1 | Nikolas| Friesen| female| 1998-12-24| agustina_braun@wintheiser.info| 449.897.7415|
-| 2 | Randi| Halvorson| male| 1997-01-29| heber.upton@bechtelarwisozk.biz| (697)436-2633|
-| 3 | Sally| Buckridge| female| 1997-10-30| nora@treutel.name| 1-351-672-6358x02502|
-| 4 | Morris| Swift| male| 1995-06-27| cordell@sanfordkuhlman.org| (600)142-5639x9380|
-| 5 | Sidney| Ortiz| male| 1997-04-04| erling@davis.name| 554.170.3265|
-| 6 | Reid| Skiles| male| 1994-10-13| mike_harvey@nikolaus.com| (543)511-2123|
-| 7 | Violet| Dickens| female| 1994-11-19| rubye_olson@collins.biz| 1-410-486-1411x5058|
-| 8 | Marguerite| Flatley| female| 1995-05-28| wanda_okon@hane.name| 572.978.5828x07860|
-| 9 | Cary| Schoen| male| 1996-07-31| fay@runolfon.biz| 1-828-134-7828x66958|
-| 10 | Mazie| Gibson| female| 1995-09-23| doug@roberts.biz| 144.038.7351x24117|
+**table_1**  
 
-**table_2**
+| id | field1              | field2              | field3              | field4              |
+|----|---------------------|---------------------|---------------------|---------------------|
+| 1  | (insert entry here) | (insert entry here) | (insert entry here) | (insert entry here) |
+| 2  | (insert entry here) | (insert entry here) | (insert entry here) | (insert entry here) |
+| 3  | (insert entry here) | (insert entry here) | (insert entry here) | (insert entry here) |
+
+**table_2**  
+
 | id | field1              | field2              | field3              |
 |----|---------------------|---------------------|---------------------|
 | 1  | (insert entry here) | (insert entry here) | (insert entry here) |
@@ -56,14 +51,16 @@ Create your own one-to-many database relationship.  You don't have to use the sa
 +---------------------+
 </pre>
 
-**table_1**
+**table_1**  
+
 | id | field1 | field2 | field3 | field4 |
 |----|--------|--------|--------|--------|
 | 1 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
 | 2 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
 | 3 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
 
-**table_2**
+**table_2**  
+
 | id | field1 | field2 | field3 | 
 |----|--------|--------|--------|
 | 1 | (insert entry here)| (insert entry here)| (insert entry here)|
@@ -86,21 +83,24 @@ Create your own many-to-many database relationship.  You don't have to use the s
 +------------+                               
 </pre>
 
-**table1**
+**table1**  
+
 | id | field1 | field2 | field3 | field4 |
 |----|--------|--------|--------|--------|
 | 1 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
 | 2 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
 | 3 | (insert entry here)| (insert entry here)| (insert entry here)| (insert entry here)|
 
-**table2**
+**table2**  
+
 | id | field1 | field2 | field3 |
 |----|--------|--------|--------|
 | 1 | (insert entry here)| (insert entry here)| (insert entry here)|
 | 2 | (insert entry here)| (insert entry here)| (insert entry here)|
 | 3 | (insert entry here)| (insert entry here)| (insert entry here)|
 
-**table1_table2**
+**table1_table2**  
+
 | id | field1 | field2 |
 |----|--------|--------|
 | 1 | (insert entry here)| (insert entry here)|
