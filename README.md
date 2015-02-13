@@ -11,6 +11,6 @@ The schema-explanations directory contains examples of four different schema des
 3.  Work on as much of it as you want to work on.
 
 4.  Push your solutions up to your branch.
-![Don't Push to Master](dontpushtomaster.png)
+![Don't Push to Master](dontpushtomaster.png)  
 Don't push to master.  DON'T PUSH TO MASTER.  **Don't push to master.**
 Is it reversible?  Pretend it's not.  On a larger project you're working on it would be a pain to undo so get good git habits now.
