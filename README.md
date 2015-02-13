@@ -4,4 +4,4 @@ The schema-explanations directory contains examples of four different schema des
 
 #Repository Instructions
 Fork the repo to your own GitHub.
-![Fork me](../forkimage.png)
+![Fork me](forkimage.png)
